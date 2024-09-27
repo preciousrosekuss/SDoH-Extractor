@@ -28,4 +28,4 @@ The data used in this project consists of the following CSV files:
 
 ## Citation
 
-Special thanks to Yejin Kim for assigning this project and providing the invaluable resources, guidance, and support.
+Special thanks to Dr. Yejin Kim for assigning this project and providing the invaluable resources, guidance, and support.
