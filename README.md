@@ -1,5 +1,8 @@
 # SDoH Extractor
 
+![image](https://github.com/user-attachments/assets/20ad3cf5-cc9e-49b9-b548-eb91597e1ebd)
+
+
 ## Overview
 
 The SDoH Extractor project focuses on leveraging natural language processing (NLP) techniques to identify and extract social determinants of health (SDoHs) from clinical notes. By transforming unstructured clinical data into structured formats, this project aims to improve the understanding of factors influencing health and well-being in individuals and populations.
@@ -28,3 +31,5 @@ The data used in this project consists of the following CSV files:
 ## Citation
 
 Special thanks to Dr. Yejin Kim for assigning this project and providing the invaluable resources, guidance, and support.
+
+We Care TLC. (2023). *Social determinants of health* [Image]. https://wecaretlc.com/wp-content/uploads/2023/03/social-determinants-of-health-visual-1024x654.png
