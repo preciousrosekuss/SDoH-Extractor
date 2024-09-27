@@ -15,8 +15,8 @@ This project utilizes a large language model to extract adverse SDoHs from clini
 The extraction process involves:
 1. Training a model on example sentences provided in `train.csv`.
 2. Testing the model's performance with `test.csv`.
-3. Generating outputs in `sdoh-categorization.md` and `sdoh-categorization.csv`.
-4. Including `original.csv` for comparative analysis against the original suggested classifications.
+3. Generating outputs in `sdoh-categorization.md`.
+4. Including `original.csv` for comparative analysis against the original suggested classifications by Marco Guevara.
 
 ## Data
 
@@ -29,9 +29,9 @@ The data used in this project consists of the following CSV files:
 
 ## Citation
 
-Special thanks to Dr. Yejin Kim for assigning this project and providing the invaluable resources, guidance, and support.
+Special thanks to Dr. Yejin Kim for assigning this project and providing invaluable resources, guidance, and support.
 
-Guevara, M., Chen, S., Thomas, S. et al. Large language models to identify social determinants of health in electronic health records. npj Digit. Med. 7, 6 (2024). https://doi.org/10.1038/s41746-023-00970-0
+Guevara, M., Chen, S., Thomas, S. et al. Large language models to identify social determinants of health in electronic health records. *npj Digit. Med*. 7, 6 (2024). https://doi.org/10.1038/s41746-023-00970-0
 
 Hugging Face. (n.d.). *SHADR dataset*. Hugging Face. https://huggingface.co/datasets/m720/SHADR
 
