@@ -31,4 +31,8 @@ The data used in this project consists of the following CSV files:
 
 Special thanks to Dr. Yejin Kim for assigning this project and providing the invaluable resources, guidance, and support.
 
+Guevara, M., Chen, S., Thomas, S. et al. Large language models to identify social determinants of health in electronic health records. npj Digit. Med. 7, 6 (2024). https://doi.org/10.1038/s41746-023-00970-0
+
+Hugging Face. (n.d.). *SHADR dataset*. Hugging Face. https://huggingface.co/datasets/m720/SHADR
+
 We Care TLC. (2023). *Social determinants of health* [Image]. https://wecaretlc.com/wp-content/uploads/2023/03/social-determinants-of-health-visual-1024x654.png
