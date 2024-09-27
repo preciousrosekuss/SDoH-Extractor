@@ -1,5 +1,7 @@
 # SDoH Extractor
 
+![image](https://github.com/user-attachments/assets/20ad3cf5-cc9e-49b9-b548-eb91597e1ebd)
+
 ## Overview
 
 The SDoH Extractor project focuses on leveraging natural language processing (NLP) techniques to identify and extract social determinants of health (SDoHs) from clinical notes. By transforming unstructured clinical data into structured formats, this project aims to improve the understanding of factors influencing health and well-being in individuals and populations.
@@ -24,8 +26,6 @@ The data used in this project consists of the following CSV files:
 - **test.csv**: Used to evaluate the model’s performance on unseen data.
 - **sdoh-categorization.md**: Contains the categorized output of sentences from the clinical notes.
 - **original.csv**: Provides a full list of sentences along with their original suggested classifications for comparative purposes.
-
-![image](https://github.com/user-attachments/assets/20ad3cf5-cc9e-49b9-b548-eb91597e1ebd)
 
 ## Citation
 
