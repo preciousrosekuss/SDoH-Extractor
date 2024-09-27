@@ -1,0 +1,26 @@
+﻿id,sentence,label
+0,Childcare provider offers after-school tutoring services helping child stay on track academically while parent undergoes treatment,SUPPORT;PARENT
+1,Displaced natural disaster (e.g.; hurricane; wildfire) struggling rebuild life new location,HOUSING
+2,Separated couple discusses how best to communicate with each other when it comes to parenting decisions,RELATIONSHIP;PARENT
+3,Medical equipment required by certain disabilities (e.g.; oxygen tanks) can be bulky and difficult to transport,TRANSPORTATION
+4,Patients with mental health conditions may struggle using public transit due anxiety or other symptoms,TRANSPORTATION
+5,Single father admits fears surrounding potential judgement from others regarding decision not seek out new romantic relationships,RELATIONSHIP;PARENT
+6,Widower admits fears surrounding potential judgement from others regarding his decision not seek out new romantic relationships,RELATIONSHIP
+7,Parent reporting concerns over adolescent's anxiety disorder,PARENT
+8,Family member takes children out fun activities giving parent opportunity rest at home,SUPPORT;PARENT
+9,A shortage of accessible taxis makes getting around more difficult than it should be,TRANSPORTATION
+10,Difficulty navigating unfamiliar neighborhoods leads anxiety frustration among visitors new city,TRANSPORTATION
+11,Parents report behavioral changes in toddler following family move. Seeking support from pediatrician.,PARENT
+12,Patient has difficulty participating in activities due lack mobility resulting decreased interactions with peers,SUPPORT
+13,Crowded living spaces compromising privacy dignity personal safety concerns,HOUSING
+14,Currently living in substandard conditions including mold infestation pest control issues lack running water/working plumbing,HOUSING
+15,A shortage of accessible taxis makes getting around more challenging than it should be for those mobility issues,TRANSPORTATION
+16,Widower discusses challenges he has faced trying to maintain social connections after wife‚Äôs passing,RELATIONSHIP
+17,Single mother seeking guidance regarding her teenage daughter‚Äôs acne.,PARENT;RELATIONSHIP
+18,Patient reveals history of emotional abuse within previous marriage leading up until separation,RELATIONSHIP
+19,Difficulty finding landlords willing accept Section 8 vouchers limiting options available for low-income renters,HOUSING
+43,Job search efforts hindered language barriers experienced non-native English speaker described as frustrating situation per patient report,EMPLOYMENT
+14,Currently living in substandard conditions including mold infestation pest control issues lack running water/working plumbing,HOUSING
+29,New single father talks honestly about fears surrounding raising daughter alone post-divorce,RELATIONSHIP; PARENT
+274,Long wait times at bus stops leave elderly individuals exposed harsh weather conditions increasing risk illness,TRANSPORTATION
+56,"Patient admits difficulty in letting go past relationship, including unresolved feelings towards ex-partner",RELATIONSHIP
