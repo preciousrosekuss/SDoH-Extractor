@@ -28,8 +28,4 @@ The data used in this project consists of the following CSV files:
 
 ## Citation
 
-If you use this project in your work or research, please cite it as follows:
-
-> [Your Name], "SDoH Extractor: Extracting Social Determinants of Health from Clinical Notes," [Repository URL], [Date]. 
-
-For academic references, please ensure to include any relevant publications or papers that discuss the methods or findings associated with this project.
+Special thanks to Yejin Kim for assigning this project and providing the invaluable resources, guidance, and support.
