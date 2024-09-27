@@ -23,7 +23,6 @@ The data used in this project consists of the following CSV files:
 - **train.csv**: Contains example sentences labeled with their corresponding SDoH categories for training the model.
 - **test.csv**: Used to evaluate the model’s performance on unseen data.
 - **sdoh-categorization.md**: Contains the categorized output of sentences from the clinical notes.
-- **sdoh-categorization.csv**: A structured CSV file with the extracted SDoHs and their classifications.
 - **original.csv**: Provides a full list of sentences along with their original suggested classifications for comparative purposes.
 
 ## Citation
