@@ -13,10 +13,10 @@ Social determinants of health (SDoHs) encompass the conditions under which indiv
 This project utilizes a large language model to extract adverse SDoHs from clinical note sentences. By categorizing each sentence into predefined SDoH categories—such as EMPLOYMENT, HOUSING, PARENT, RELATIONSHIP, and TRANSPORTATION—the model aims to provide actionable insights for health data science.
 
 The extraction process involves:
-1. Training a model on example sentences provided in `train.csv`.
-2. Testing the model's performance with `test.csv`.
-3. Generating outputs in `sdoh-categorization.md`.
-4. Including `original.csv` for comparative analysis against the original suggested classifications by Marco Guevara.
+1. Training a model on example sentences provided in 'train.csv'.
+2. Testing the model's performance with 'test.csv'.
+3. Generating outputs in 'sdoh-categorization.md'.
+4. Including 'original.csv' for comparative analysis against the original suggested classifications by Marco Guevara.
 
 ## Data
 
