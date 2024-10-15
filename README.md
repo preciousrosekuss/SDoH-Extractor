@@ -16,7 +16,7 @@ The extraction process involves:
 1. Training a model on example sentences provided in 'train.csv'.
 2. Testing the model's performance with 'test.csv'.
 3. Generating outputs in 'sdoh-categorization.md'.
-4. Including 'original.csv' for comparative analysis against the original suggested classifications by Marco Guevara.
+4. Including 'original.csv' for comparative analysis against the original suggested classifications by Marco Guevara. Reference #3.
 
 ## Data
 
